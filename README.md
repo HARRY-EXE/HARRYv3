@@ -6,6 +6,7 @@
 - `New Login Method`
 - `Cookies Problem Solved`
 - `File Making Added`
+- `New Passlist Added`
 
 Installation Commands :-
 - `$ pkg install git`  
