@@ -7,6 +7,7 @@
 - `Cookies Problem Solved`
 - `File Making Added`
 - `New Passlist Added`
+- `Check Results Added`
 
 Installation Commands :-
 - `$ pkg install git`  
